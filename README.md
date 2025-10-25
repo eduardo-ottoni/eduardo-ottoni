@@ -12,7 +12,7 @@ Durante minha carreira, já fui Designer, Analista de Suporte, Desenvolvedor, Co
 </p>
 
 <p align="Center">
- <a align="Center"> <img align="Center" src=https://readme-typing-svg.demolab.com?font=Fira+Code&Center=true&weight=730&pause=1000&color=673AF7&Center=true&width=730&lines=%2B15+years+of+experience+in+projects;%2B5+years+of+experience+in+project+management;MBA+in+Project+Management>
+ <a align="Center"> <img align="Center" src=https://readme-typing-svg.demolab.com?font=Fira+Code&Center=true&weight=535&pause=1000&color=673AF7&width=730&lines=%2B15+years+of+experience+in+projects;%2B5+years+of+experience+in+project+management;MBA+in+Project+Management>
  
  </p>
  
@@ -184,21 +184,28 @@ Durante minha carreira, já fui Designer, Analista de Suporte, Desenvolvedor, Co
 * Projeto 3PL - Extrema-MG (2023);
 * Projeto de Atualização de Versão (2024);
 
+<br/>
 
 ###  <a> <img          alt="Philips"     title="Philips"     width="80px"    style="padding-right: 0px;"     src="https://www.logo.wine/a/logo/Philips/Philips-Logo.wine.svg" />
 * Projeto Migração para Cloud Computing (2021);
 * Projeto de Atualização de Versão (2022);
+
+<br/>
 
 ###  <a> <img          alt="DOW Chemical"     title="DOW Chemical"     width="80px"    style="padding-right: 0px;"     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dow_Chemical_Company_logo.svg/1200px-Dow_Chemical_Company_logo.png" />
 
 * Projeto de Atualização SAP (2020);
 * Projeto de Atualização de Versão (2023);
 
+<br/>
+
 ###  <a> <img          alt="DOW Chemical"     title="DOW Chemical"     width="80px"    style="padding-right: 0px;"     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4zvfRq0Vpjxlzu2Wvx_L7nJNdzy_d9Mx8g&s.svg" />
 
 * Projeto Aquisição JustFit - 31 unidades (2021);
 * Projeto de Nota Fiscal de Serviço - 9 municípios (2021);
 * Projeto de Nota Fiscal de Serviço - 14 municípios (2022);
+
+<br/>
 </p>
 
 
